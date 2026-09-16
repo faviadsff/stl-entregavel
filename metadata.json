@@ -1,0 +1,6 @@
+{
+  "name": "STL do Mago",
+  "description": "Entregável oficial do Pack de STL para Imprimir RPG e coleções 3D com visualizador de PDF e catálogo interativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
